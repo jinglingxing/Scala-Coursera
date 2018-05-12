@@ -1,2 +1,6 @@
 # Scala-Coursera
-This is the coursera specialized courses taught by EPFL, including 5 courses assignments and a real project.
+Author: Jinling XING jinling.xing@polymtl.ca <br>
+I study this course on the Coursera is because I need Scala to do my research project. <br>
+**I used the IDE: IntelliJ and the "sbt".**
+## Week 1
+This week is about recursion, the exercises are: Pascal's Triangle; Parentheses Balancing; Counting change.
