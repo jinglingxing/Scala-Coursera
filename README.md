@@ -9,4 +9,4 @@ This week is about recursion, the exercises are: Pascal's Triangle; Parentheses 
 This week is the operations of set, including union, intersect, difference, filter, forall and exist. <br>
 We also need to write the test document to test the functions.
 
-Already finish this course, if I have time, I will update this repository.
+**Already finish this course, if I have time, I will update this repository.**
